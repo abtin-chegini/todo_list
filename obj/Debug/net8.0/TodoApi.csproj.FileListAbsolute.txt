@@ -30,3 +30,4 @@
 /Users/abtinchegini/Desktop/miniDotnetCore/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/abtinchegini/Desktop/miniDotnetCore/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/abtinchegini/Desktop/miniDotnetCore/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/abtinchegini/Desktop/miniDotnetCore/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
